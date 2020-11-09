@@ -1,0 +1,4 @@
+#!/bin/sh
+
+export LFTP_PASSWORD='rQ63A3y3HG$sQ&U'
+lftp --env-password sftp://trilliant@sftp.datavant.com 
